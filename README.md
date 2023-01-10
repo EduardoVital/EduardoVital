@@ -1,7 +1,7 @@
 # Eduardo Vital de Souza
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&lin=https://www.linkedin.com/in/eduardovitaldesouza/)](https://www.linkedin.com/in/eduardovitaldesouza/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardovitals@gmail.com)](mailto:eduardovitals@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&lin=https://www.linkedin.com/in/eduardovitaldesouza/)](https://www.linkedin.com/in/eduardovitaldesouza/) [![Gmail Badge](https://img.shields.io/badge/-eduardovitals@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardovitals@gmail.com)](mailto:eduardovitals@gmail.com)
 
 I'm a passionated front-end developer, always learning about new technologies and best practices. I love the front-end world and to solve problems.
 
